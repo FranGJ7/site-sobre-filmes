@@ -4,7 +4,7 @@ No projeto antes últilizei Postman para fazer algumas requisições de teste e 
 Usando de Front apenas Css junto com React sem Frameworks
 A seguir algumas imagens do site:
 
-Página inicial com os 20 filmes melhor avaliado
+Página inicial com os 20 filmes melhor avaliado:
 
 ![Screenshot from 2022-08-26 19-29-54](https://user-images.githubusercontent.com/97806169/186999519-ecae4704-cca2-4b52-875c-cdef187fe982.png)
 
